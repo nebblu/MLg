@@ -8,8 +8,7 @@ The requirements to run the jupyter notebooks are in the file requirements.txt. 
 
 If you aer new to python/jupyter, follow the following instructions:
 
-* 
-Install [miniconda](https://conda.io/en/latest/miniconda.html)
+* Install [miniconda](https://conda.io/en/latest/miniconda.html)
 See the installation instructions [here](https://conda.io/projects/conda/en/latest/user-guide/install/).
 You may need to restart your computer after installation.
 
@@ -37,7 +36,7 @@ conda install --name <name> -c conda-forge jupyter
 (If you did not created a dedicated environment, skip the --name option)
 
 * (If you created a dedicated environment) Activate the environment 
-```conda activate odw2019```
+```conda activate <name> ```
 
 * Start the jupyter notebook server 
 ```jupyter notebook```
