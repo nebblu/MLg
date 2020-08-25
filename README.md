@@ -1,6 +1,10 @@
 ## ML tutorials - UniGe Cosmology Group
 
-This repo contains tutorials for the ML meeting of the cosmology group at the University of Geneva
+This repo contains tutorials for the ML meeting of the cosmology group at the University of Geneva. Please contact benjamin.bose@unige.ch for more information on how to join tutorial sessions or if you have general questions. 
+
+## Key Contributors : 
+
+Michele Mancarella, Joseph Kennedy, David Lous Daverio and Benjamin Bose. 
 
 ### Basic setup for Apple/Mac computer with conda
 
